@@ -1,1 +1,2 @@
 # abstractMethodViaInheritance
+edited
